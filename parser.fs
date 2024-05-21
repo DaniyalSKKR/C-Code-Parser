@@ -10,11 +10,6 @@
 //
 // Daniyal Khokhar
 //
-// Original author:
-//   Prof. Joe Hummel
-//   U. of Illinois, Chicago
-//   CS 341, Spring 2022
-//
 
 namespace compiler
 
